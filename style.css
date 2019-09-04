@@ -4,7 +4,12 @@ body{
     padding: 40px;
     background-color: #121212;  
   }
-  
+.typewriter h1{
+    font-family: 'Source Code Pro', monospace;  
+  font-size: 28px;
+  color: rgba(255,255,255,.70);
+  margin: 0 auto;
+}
 .typewriter p {
     border-right: solid 3px rgba(0,255,0,.75);
     white-space: nowrap;
